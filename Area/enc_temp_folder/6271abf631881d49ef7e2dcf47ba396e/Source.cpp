@@ -13,7 +13,7 @@ int main()
 	ans = area2(3.3f, 4.5f);
 	area2(0.0f, 4.5f);
 	area2(3.3f, 0.0f);
-	 // std area is
+	
 
 	return 1;
 }
